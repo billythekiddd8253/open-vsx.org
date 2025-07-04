@@ -4,7 +4,7 @@ about: A bug or enhancement request for the website open-vsx.org
 title: ''
 labels: ''
 assignees: ''
----
+---op.github/ISSUE_TEMPLATE/website-issue.md
 
 <!--
 Please note: issues related to the Open VSX Registry implementation should go to
