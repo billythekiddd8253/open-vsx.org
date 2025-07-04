@@ -2,7 +2,7 @@ Billy---
 name: Website issue
 about: A bug or enhancement request for the website open-vsx.org
 title: ''
-labels: ''
+labels: '.github/ISSUE_TEMPLATE/website-issue.md'
 assignees: ''
 ---op.github/ISSUE_TEMPLATE/website-issue.md
 
